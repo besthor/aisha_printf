@@ -1,3 +1,5 @@
-this a collaborative project between:
-Besthor <igjhgghgh@gmail.com>
-Aisha <hdhhd$@gmail.com>
+This is a collaborative project between:
+
+Besthor [besthor] <igbebestor7@gmail.com>
+
+Aisha [Aisha] <@gmail.com>
